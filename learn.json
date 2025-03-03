@@ -4,8 +4,8 @@
   "repository": "https://github.com/4GeeksAcademy/node-api-tutorial",
   "duration": 8,
   "description": {
-    "us": "This is an interactive tutorial that will teach you how to create an API with node.",
-    "es": "Este es un tutorial interactivo que enseñará como crear una API con Node."
+    "us": "Learn to create a REST API with Node and Express in our interactive tutorial! Master essential coding skills and kickstart your programming journey today!",
+    "es": "Aprende a crear una API REST con Node y Express en nuestro tutorial interactivo. Domina las habilidades esenciales de codificación y comienza tu viaje por la programación hoy mismo."
   },
   "title": {
     "us": "Node API Tutorial",
